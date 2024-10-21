@@ -2,3 +2,5 @@ description.txt
 /backend/node_modules/
 /dashboard/node_modules/
 /backend/.env
+/frontend
+
